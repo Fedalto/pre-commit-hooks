@@ -1,0 +1,5 @@
+-   id: mypy
+    name: mypy
+    description: Mypy is a static type checker for Python.
+    entry: mypy
+    language: python
