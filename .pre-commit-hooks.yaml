@@ -3,3 +3,4 @@
     description: Mypy is a static type checker for Python.
     entry: mypy
     language: python
+    types: [python]

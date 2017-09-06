@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='pre-commit-hooks',
-    version='0.1',
+    version='0.2',
     url='https://github.com/Fedalto/pre-commit-hooks',
     license='MIT',
     author='Leonardo Fedalto',
